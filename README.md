@@ -1,5 +1,5 @@
 # KNIME_E2E-Test
-An e2e test of selected user flows in KNIME Hub website using Robot-framework/Python.
+An e2e test of selected user flows in KNIME Hub website using Robot-framework/Python..
 Please note that a page object model was utilised in the test, so download or clone the repo as a zipped file containing the whole files. 
 Unzip the file and open the project in an IDE. I used PyCharm but any other IDE would do the job as long as the Python interpreter is set for the project.
 
